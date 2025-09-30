@@ -1,0 +1,82 @@
+h1{
+    color:blue;
+}
+
+#contenedor {
+    background-color: gray;
+    width: 432px;
+    height: 300px;
+}
+
+.primera {
+    background-color: orange;
+    width: 100px;
+    height: 50px;
+    position: absolute
+}
+
+.segunda {
+    background-color: green;
+    width: 100px;
+    height: 50px;
+    margin-left: 100px;
+    position: absolute;
+}
+
+.tercera {
+    background-color: blue;
+    width: 100px;
+    height: 50px;
+    margin-left: 200px;
+    
+}
+
+.cuarta {
+    background-color: pink;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+}
+
+.quinta {
+    background-color: yellow;
+    width: 100px;
+    height: 50px;
+    margin-left: 100px;
+}
+
+.sexta {
+    background-color: black;
+    width: 100px;
+    height: 50px;
+    margin-left: 200px;
+}
+
+.octaba {
+    background-color: red;
+    width: 100px;
+    height: 50px;
+}
+
+.novena {
+    background-color: purple;
+    width: 100px;
+    height: 50px;
+}
+
+.decima {
+    background-color: brown;
+    height: 50px;
+}
+
+.undecima {
+    background-color: gold;
+    width: 100px;
+    height: 50px;
+}
+
+.duodecima {
+    background-color: silver;
+    width: 100px;
+    height: 50px;
+}
